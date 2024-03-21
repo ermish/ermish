@@ -1,8 +1,8 @@
 ### Hey there 👋 My name is Philip!
 
-- 🔭 My current, primary open-source project is [find a doc](https://github.com/ourjapanlife/findadoc-web)! Come join in!
-- 🌱 I love to code on open-source and personal projects outside of work. This is where I learn all the cool new things
-- 🚄 I live in Japan and love to explore the beautiful contrast of the big city with the tranquil nature.
+- 🌱 I love to code open-source and personal projects outside of work. This is where I learn and practice new tech to understand how it fits into enterprise-scaled ecosystems
+- 🚄 I live in Japan 🏯 and love to explore the beautiful contrast of the big cities with the tranquil nature. Photography is often my excuse to motivate myself to explore
+- 🔭 My current, open-source focused project is [find a doc](https://github.com/ourjapanlife/findadoc-web)! Come join in!
 
 ```javascript
  _          _ _                            _     _ 
