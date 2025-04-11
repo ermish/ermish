@@ -1,4 +1,4 @@
-## Hey there 👋 My name is Philip!
+## Hey there 👋
 
 ### Who am I?
 - 🌱 I love to code open-source and personal projects outside of work. This is where I learn and practice new tech to understand how it fits into enterprise-scaled ecosystems
