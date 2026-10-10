@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="88" viewBox="0 0 400 88" role="img" aria-label="Lightwrite: AI-first, local-first notes over files you own">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34b3ab" stop-opacity="0.75"/><stop offset="1" stop-color="#c4b5f5" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.1" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#34b3ab" stop-opacity="0.26"/><stop offset="1" stop-color="#34b3ab" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="398" height="86" rx="20" fill="#131210"/>
+  <rect x="1" y="1" width="398" height="86" rx="20" fill="url(#glow)"/>
+  <rect x="1" y="1" width="398" height="86" rx="20" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <svg x="16" y="16" width="56" height="56" viewBox="0 0 96 96"><defs><linearGradient id="b" x1="8" y1="8" x2="88" y2="88" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#fffdf8"/><stop offset="100%" stop-color="#eeeafe"/></linearGradient><linearGradient id="t" x1="52" y1="48" x2="94" y2="82" gradientUnits="userSpaceOnUse"><stop stop-color="#34b3ab"/><stop offset="72%" stop-color="#34b3ab" stop-opacity=".74"/><stop offset="100%" stop-color="#34b3ab" stop-opacity="0"/></linearGradient><linearGradient id="a" x1="52" y1="50" x2="94" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#79dcd8"/><stop offset="72%" stop-color="#79dcd8" stop-opacity=".68"/><stop offset="100%" stop-color="#79dcd8" stop-opacity="0"/></linearGradient><linearGradient id="p" x1="50" y1="52" x2="90" y2="90" gradientUnits="userSpaceOnUse"><stop stop-color="#9fb3f5"/><stop offset="72%" stop-color="#9fb3f5" stop-opacity=".64"/><stop offset="100%" stop-color="#9fb3f5" stop-opacity="0"/></linearGradient><linearGradient id="l" x1="48" y1="54" x2="84" y2="92" gradientUnits="userSpaceOnUse"><stop stop-color="#c4b5f5"/><stop offset="70%" stop-color="#c4b5f5" stop-opacity=".58"/><stop offset="100%" stop-color="#c4b5f5" stop-opacity="0"/></linearGradient></defs><rect width="96" height="96" rx="24" fill="url(#b)"/><path d="M12 20C22 23 30 27 39 35" fill="none" stroke="#d8f3f0" stroke-width="8" stroke-linecap="round" opacity=".52"/><path d="M12 20C22 23 30 27 39 35" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".96"/><path d="M38 33L56 51L30 58Z" fill="#fff" fill-opacity=".22" stroke="#fff" stroke-opacity=".58" stroke-width="1.2" stroke-linejoin="round"/><path d="M42 37L52 50" fill="none" stroke="#fff" stroke-opacity=".36" stroke-width="1.4" stroke-linecap="round"/><path d="M54 49C65 53 75 60 84 68C88 72 91 76 95 80" fill="none" stroke="url(#t)" stroke-width="8" stroke-linecap="round"/><path d="M54 51C66 56 76 64 85 73C89 77 92 81 95 85" fill="none" stroke="url(#a)" stroke-width="7" stroke-linecap="round"/><path d="M52 53C63 59 72 68 80 78C84 83 88 87 91 91" fill="none" stroke="url(#p)" stroke-width="6" stroke-linecap="round"/><path d="M50 55C59 62 67 73 75 84C78 88 81 91 84 94" fill="none" stroke="url(#l)" stroke-width="5" stroke-linecap="round"/>
+  </svg>
+  
+  <text x="88" y="40" fill="#f6f4ee" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="0.2">Lightwrite</text>
+  <text x="88" y="62" fill="#a8a196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5">AI-first, local-first notes over files you own</text>
+  <text x="382" y="40" text-anchor="end" fill="#79dcd8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">lightwrite.app ↗</text>
+</svg>
