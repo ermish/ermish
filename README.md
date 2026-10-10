@@ -1,10 +1,34 @@
+
+```javascript
+ _          _ _                            _     _  
+| |        | | |                          | |   | |
+| |__   ___| | | ___   __      _____  _ __| | __| |
+| '_ \ / _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` |
+| | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
+|_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
+
+( _\    /_ )
+ \ _\  /_ / 
+  \ _\/_ /_ _
+  |_____/_/ /|
+  (   (_)__)-)
+  (  /` /.,  /
+   \/  /;   /
+    | === |
+
+```                                                   
+<!---
+ <br>s are fun
+--->
+<br>                                               
 ## Hey there 👋
 
 ### Who am I?
-- 🌱 I love to code open-source and personal projects outside of work. This is where I learn and practice new tech to understand how it fits into enterprise-scaled ecosystems
+- 🌱 A builder! No matter what your role is in your day job, nothing beats building something yourself. This is where I learn and practice new tech, then understand how it applies to enterprise-scaled systems. A recent example is, how does agentic coding work for you vs across an org of hundreds of engineers. I also love open-source and mentoring people on how we can make the world a better place with technology. Understanding a tool like AI and code is the first step to knowing how to use it constructively. 
 - 🚄 I live in Japan 🏯 and love to explore the beautiful contrast of the big cities with the tranquil nature. Photography is often my excuse to motivate myself to explore
 
 ### What am I working on lately?
+- I've built the company Nekko Labs and we're shipping [Nekko Agent](https://github.com/nekko-labs/agent-nekko) along with some other things in the works!
 
 <p>
   <a href="https://nekkoagent.com"><picture>
@@ -28,31 +52,3 @@
     <img src="./chips/getsu-light.svg" height="72" alt="Getsu: Calm, anti-streak monthly journaling and goals">
   </picture></a>
 </p>
-
-- 🔭 My current, open-source focused project is [find a doc](https://github.com/ourjapanlife/findadoc-web)! Come join in!
-
-<!---
- <br>s are fun
---->
-<br><br>
-
-```javascript
- _          _ _                            _     _  
-| |        | | |                          | |   | |
-| |__   ___| | | ___   __      _____  _ __| | __| |
-| '_ \ / _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` |
-| | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
-|_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
-
-( _\    /_ )
- \ _\  /_ / 
-  \ _\/_ /_ _
-  |_____/_/ /|
-  (   (_)__)-)
-  (  /` /.,  /
-   \/  /;   /
-    | === |
-
-```
-                                                   
-                                                   
